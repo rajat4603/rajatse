@@ -1,4 +1,9 @@
-<h1 align="center">Red Bus Clone</h1>
+
+<h1 align="center">Software Engineering</h1>
+
+<h1 align="center">Blue Bus</h1>
+<h1 align="center">Developed by - Rajat Gupta </h1>
+
 
 <h3 align="center">It's a MERN Stack Bus Ticket Booking web application with all the major functionalities</h3>
 
